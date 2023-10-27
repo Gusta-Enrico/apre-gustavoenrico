@@ -19,6 +19,8 @@ Também estou dedicando tempo ao curso da AWS para obter a certificação Cloud 
 
 Minha abordagem é guiada pela curiosidade e pela vontade constante de aprender. Se você estiver interessado em colaborar em projetos inovadores ou trocar ideias sobre tecnologia e desenvolvimento, fique à vontade para entrar em contato!
 
+---
+
 
 
 
